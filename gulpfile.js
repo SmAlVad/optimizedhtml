@@ -1,4 +1,4 @@
-var syntax        = 'sass'; // Syntax: sass or scss;
+var syntax        = 'scss'; // Syntax: sass or scss;
 
 var gulp          = require('gulp'),
 		gutil         = require('gulp-util' ),
