@@ -1,6 +1,7 @@
 @import "vars";
 @import "fonts";
 @import "libs";
+@import "../libs/bootstrap/scss/bootstrap";
 
 ::placeholder {
 	color: #666;
@@ -49,5 +50,5 @@ b, strong {
 }
 
 
-
+@import "custom"; // Custom file
 @import "media"; // Always at the end
