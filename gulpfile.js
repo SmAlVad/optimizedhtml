@@ -86,7 +86,7 @@ gulp.task('img', function() {
 
 gulp.task('fonts', function(){
 	return gulp.src('assets/fonts/**')
-	.pipe(gulp.dest('app/font'));
+	.pipe(gulp.dest('app/fonts'));
 });
 
 gulp.task('clean', function() {

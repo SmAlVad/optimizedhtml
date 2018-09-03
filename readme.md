@@ -5,4 +5,4 @@
 </p>
 
 <p>Author: <a href="http://webdesign-master.ru" target="_blank">WebDesign Master</a></p>
-<p>Modified: <a href="http://bymi.ru" target="_balnk">SmAlVad</a></p>
+<p>Modified: <a href="http://bymi.ru" target="_blank">SmAlVad</a></p>
